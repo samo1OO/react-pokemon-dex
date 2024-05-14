@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/(Repository%E5%90%8D)/static/css/main.5ec83545.css",
+    "main.js": "/(Repository%E5%90%8D)/static/js/main.bb4e1444.js",
+    "index.html": "/(Repository%E5%90%8D)/index.html",
+    "main.5ec83545.css.map": "/(Repository%E5%90%8D)/static/css/main.5ec83545.css.map",
+    "main.bb4e1444.js.map": "/(Repository%E5%90%8D)/static/js/main.bb4e1444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec83545.css",
+    "static/js/main.bb4e1444.js"
+  ]
+}
